@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Ayush Jha <br><br>🎓 BCA Student | 🚀 Aspiring DevOps Engineer | 🛠️ Automation & Cloud Enthusiast  <br><br>I’m a BCA student specializing in **DevOps**, passionate about building, automating, and scaling reliable systems.  <br>I enjoy working at the intersection of **development and operations**, where code meets infrastructure.<br><br>---<br><br>## 🧠 About Me<br>- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**<br>- ⚙️ Focused on **DevOps practices & tools**<br>- ☁️ Interested in **Cloud Computing, CI/CD, and System Reliability**<br>- 🧩 Love solving real-world problems using automation<br>- 📈 Always learning, always improving
+# 👋 Hi, I'm Ayush Aryan <br><br>🎓 BCA Student | 🚀 Aspiring DevOps Engineer | 🛠️ Automation & Cloud Enthusiast  <br><br>I’m a BCA student specializing in **DevOps**, passionate about building, automating, and scaling reliable systems.  <br>I enjoy working at the intersection of **development and operations**, where code meets infrastructure.<br><br>---<br><br>## 🧠 About Me<br>- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**<br>- ⚙️ Focused on **DevOps practices & tools**<br>- ☁️ Interested in **DevOps and cloud**<br>- 🧩 Love solving real-world problems using automation<br>- 📈 Always learning, always improving
 
 
 ## 🌐 Socials:
